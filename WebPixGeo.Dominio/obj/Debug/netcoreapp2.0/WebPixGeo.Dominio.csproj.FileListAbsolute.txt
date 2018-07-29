@@ -1,0 +1,16 @@
+C:\work\WebPixGeo\WebPixGeo.Dominio\bin\Debug\netcoreapp2.0\WebPixGeo.Dominio.deps.json
+C:\work\WebPixGeo\WebPixGeo.Dominio\bin\Debug\netcoreapp2.0\WebPixGeo.Dominio.dll
+C:\work\WebPixGeo\WebPixGeo.Dominio\bin\Debug\netcoreapp2.0\WebPixGeo.Dominio.pdb
+C:\work\WebPixGeo\WebPixGeo.Dominio\bin\Debug\netcoreapp2.0\WebPixGeo.Entidade.dll
+C:\work\WebPixGeo\WebPixGeo.Dominio\bin\Debug\netcoreapp2.0\WebPixGeo.Repositorio.dll
+C:\work\WebPixGeo\WebPixGeo.Dominio\bin\Debug\netcoreapp2.0\WebPixGeo.Repositorio.pdb
+C:\work\WebPixGeo\WebPixGeo.Dominio\bin\Debug\netcoreapp2.0\WebPixGeo.Entidade.pdb
+C:\work\WebPixGeo\WebPixGeo.Dominio\obj\Debug\netcoreapp2.0\WebPixGeo.Dominio.csprojAssemblyReference.cache
+C:\work\WebPixGeo\WebPixGeo.Dominio\obj\Debug\netcoreapp2.0\WebPixGeo.Dominio.csproj.CoreCompileInputs.cache
+C:\work\WebPixGeo\WebPixGeo.Dominio\obj\Debug\netcoreapp2.0\WebPixGeo.Dominio.AssemblyInfoInputs.cache
+C:\work\WebPixGeo\WebPixGeo.Dominio\obj\Debug\netcoreapp2.0\WebPixGeo.Dominio.AssemblyInfo.cs
+C:\work\WebPixGeo\WebPixGeo.Dominio\obj\Debug\netcoreapp2.0\WebPixGeo.Dominio.csproj.CopyComplete
+C:\work\WebPixGeo\WebPixGeo.Dominio\obj\Debug\netcoreapp2.0\WebPixGeo.Dominio.dll
+C:\work\WebPixGeo\WebPixGeo.Dominio\obj\Debug\netcoreapp2.0\WebPixGeo.Dominio.pdb
+C:\work\WebPixGeo\WebPixGeo.Dominio\bin\Debug\netcoreapp2.0\WebPixGeo.Servico.dll
+C:\work\WebPixGeo\WebPixGeo.Dominio\bin\Debug\netcoreapp2.0\WebPixGeo.Servico.pdb

@@ -1,0 +1,9 @@
+C:\work\WebPixGeo\WebPixGeo.Servico\bin\Debug\netcoreapp2.0\WebPixGeo.Servico.deps.json
+C:\work\WebPixGeo\WebPixGeo.Servico\bin\Debug\netcoreapp2.0\WebPixGeo.Servico.dll
+C:\work\WebPixGeo\WebPixGeo.Servico\obj\Debug\netcoreapp2.0\WebPixGeo.Servico.csprojAssemblyReference.cache
+C:\work\WebPixGeo\WebPixGeo.Servico\obj\Debug\netcoreapp2.0\WebPixGeo.Servico.csproj.CoreCompileInputs.cache
+C:\work\WebPixGeo\WebPixGeo.Servico\obj\Debug\netcoreapp2.0\WebPixGeo.Servico.AssemblyInfoInputs.cache
+C:\work\WebPixGeo\WebPixGeo.Servico\obj\Debug\netcoreapp2.0\WebPixGeo.Servico.AssemblyInfo.cs
+C:\work\WebPixGeo\WebPixGeo.Servico\bin\Debug\netcoreapp2.0\WebPixGeo.Servico.pdb
+C:\work\WebPixGeo\WebPixGeo.Servico\obj\Debug\netcoreapp2.0\WebPixGeo.Servico.dll
+C:\work\WebPixGeo\WebPixGeo.Servico\obj\Debug\netcoreapp2.0\WebPixGeo.Servico.pdb

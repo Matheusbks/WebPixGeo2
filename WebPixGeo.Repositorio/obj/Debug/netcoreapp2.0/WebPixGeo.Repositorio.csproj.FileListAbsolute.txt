@@ -1,0 +1,12 @@
+C:\work\WebPixGeo\WebPixGeo.Repositorio\bin\Debug\netcoreapp2.0\WebPixGeo.Repositorio.deps.json
+C:\work\WebPixGeo\WebPixGeo.Repositorio\bin\Debug\netcoreapp2.0\WebPixGeo.Repositorio.dll
+C:\work\WebPixGeo\WebPixGeo.Repositorio\obj\Debug\netcoreapp2.0\WebPixGeo.Repositorio.csprojAssemblyReference.cache
+C:\work\WebPixGeo\WebPixGeo.Repositorio\obj\Debug\netcoreapp2.0\WebPixGeo.Repositorio.csproj.CoreCompileInputs.cache
+C:\work\WebPixGeo\WebPixGeo.Repositorio\obj\Debug\netcoreapp2.0\WebPixGeo.Repositorio.AssemblyInfoInputs.cache
+C:\work\WebPixGeo\WebPixGeo.Repositorio\obj\Debug\netcoreapp2.0\WebPixGeo.Repositorio.AssemblyInfo.cs
+C:\work\WebPixGeo\WebPixGeo.Repositorio\bin\Debug\netcoreapp2.0\WebPixGeo.Entidade.dll
+C:\work\WebPixGeo\WebPixGeo.Repositorio\bin\Debug\netcoreapp2.0\WebPixGeo.Repositorio.pdb
+C:\work\WebPixGeo\WebPixGeo.Repositorio\bin\Debug\netcoreapp2.0\WebPixGeo.Entidade.pdb
+C:\work\WebPixGeo\WebPixGeo.Repositorio\obj\Debug\netcoreapp2.0\WebPixGeo.Repositorio.csproj.CopyComplete
+C:\work\WebPixGeo\WebPixGeo.Repositorio\obj\Debug\netcoreapp2.0\WebPixGeo.Repositorio.dll
+C:\work\WebPixGeo\WebPixGeo.Repositorio\obj\Debug\netcoreapp2.0\WebPixGeo.Repositorio.pdb

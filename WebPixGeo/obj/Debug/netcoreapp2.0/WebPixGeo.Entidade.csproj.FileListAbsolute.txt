@@ -1,0 +1,9 @@
+C:\work\WebPixGeo\WebPixGeo\bin\Debug\netcoreapp2.0\WebPixGeo.Entidade.deps.json
+C:\work\WebPixGeo\WebPixGeo\bin\Debug\netcoreapp2.0\WebPixGeo.Entidade.dll
+C:\work\WebPixGeo\WebPixGeo\bin\Debug\netcoreapp2.0\WebPixGeo.Entidade.pdb
+C:\work\WebPixGeo\WebPixGeo\obj\Debug\netcoreapp2.0\WebPixGeo.Entidade.csprojAssemblyReference.cache
+C:\work\WebPixGeo\WebPixGeo\obj\Debug\netcoreapp2.0\WebPixGeo.Entidade.csproj.CoreCompileInputs.cache
+C:\work\WebPixGeo\WebPixGeo\obj\Debug\netcoreapp2.0\WebPixGeo.Entidade.AssemblyInfoInputs.cache
+C:\work\WebPixGeo\WebPixGeo\obj\Debug\netcoreapp2.0\WebPixGeo.Entidade.AssemblyInfo.cs
+C:\work\WebPixGeo\WebPixGeo\obj\Debug\netcoreapp2.0\WebPixGeo.Entidade.dll
+C:\work\WebPixGeo\WebPixGeo\obj\Debug\netcoreapp2.0\WebPixGeo.Entidade.pdb
